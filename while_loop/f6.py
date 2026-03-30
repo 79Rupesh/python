@@ -1,4 +1,5 @@
 # calculate factorail of a number.
+# Input: 5 → 📤Output: 120
 n=5
 fact=1
 i=1
