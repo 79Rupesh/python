@@ -1,5 +1,5 @@
 # reverce print karana hai
-num=1285
+num=int(input("Enter your number : "))
 p=0
 while(0<num):
         

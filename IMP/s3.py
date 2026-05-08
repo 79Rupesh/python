@@ -1,5 +1,5 @@
 # palindrome number 
-num=121
+num=int(input("Enter your number : "))
 rev=0
 tem=num
 while(0<num):
