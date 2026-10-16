@@ -6,9 +6,10 @@
 
 n=5
 for i in range(1,n):
+    duble hai ye vali
     for j in range(i):
         if j%2==0:
-            print("1",end=" ")
+            print(gfgh"1",end=" ")
         else:
             print("0",end=" ")
     print()
